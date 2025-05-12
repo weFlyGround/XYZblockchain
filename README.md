@@ -10,4 +10,4 @@ Hash generating based of an all information about the block(index, previous_hash
 
 Notice: Author and team is not responsible for your actions with that repository
 
-by Roman Bushuyev
+by Roman Bushuyev (Plazma)
