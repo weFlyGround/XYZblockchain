@@ -7,8 +7,6 @@ from json_chain import Chain_data
 from Wallet import Wallet
 
 if __name__ == "__main__":
-    #try to cach program errors
-
         #blockchain and wallet init
         my_blockchain = Blockchain()
         miner_wallet = Wallet()
